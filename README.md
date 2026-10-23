@@ -8,7 +8,7 @@
 <p>To use, just scroll down to find the city your interested in. It will display the day of the week and time, along with the difference in hours from local time. The table below shows all the cities included. Feel free to update.</p>
 <div align="center">
 
-| Region | Cities / Countries |
+| Region | Cities / Countries / Places |
 | :--- | :--- |
 | North America | Anchorage, Chicago, Los Angeles, New York, Toronto, Vancouver |
 | Central America | Costa Rica, Mexico City, Panama |
