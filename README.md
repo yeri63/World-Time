@@ -7,32 +7,15 @@
 <p>Just to be clear, I don't know people in all these places. They're only included for curiosity sake, or when following news stories around the world. Also, it's nice to know exactly where in the world is  celebrating New Year's Day during that holiday!</p>
 <p>To use, just scroll down to find the city your interested in. It will display the day of the week and time, along with the difference in hours from local time. The table below shows all the cities included. Feel free to update.</p>
 <div align="center">
-  
-| Region | City | | Region | City | | Region | City |
-| :--- | :--- | :---: | :--- | :--- | :---: | :--- | :--- |
-| | | | | | | | | 
-| America | Anchorage | | America | Guayaquil | | America | Sao_Paulo |
-| America | Bogota | | America | Los_Angeles | | America | Toronto | 
-| America | Buenos_Aires | | America | Mexico_City | | America | Vancouver |
-| America | Costa_Rica | | America | New_York | | | |
-| America | Chicago | | America | Panama | | | |
-| | | | | | | | | 
-| Asia | Baghdad | | Asia | Kolkata | | Asia | Tehran |
-| Asia | Bangkok | | Asia | Seoul | | Asia | Tokyo |
-| Asia | Dubai | | Asia | Shanghai | | | |
-| Asia | Hong_Kong | | Asia | Taipei | | | |
-| | | | | | | | | 
-| Atlantic | Azores | | Atlantic | Canary | | Atlantic | Reykjavik |
-| Atlantic | Bermuda | | Atlantic | Cape_Verde | | | |
-| | | | | | | | | 
-| Australia | Sydney | | | | | | | 
-| | | | | | | | | 
-| Europe | Berlin | | Europe | London | | Europe | Rome |
-| Europe | GMT | | Europe | Madrid | | Europe | Stockholm |
-| Europe | Istanbul | | Europe | Moscow | | | |
-| Europe | Lisbon | | Europe | Paris | | | |
-| | | | | | | | | 
-| Pacific | Auckland | | Pacific | Guam | | Pacific | Midway |
-| Pacific | Easter | | Pacific | Honolulu | | Pacific | Tahiti |
-| Pacific | Fiji | | Pacific | Kosrae | | | |
+
+| Region | Cities / Countries |
+| :--- | :--- |
+| North America | Anchorage, Chicago, Los Angeles, New York, Toronto, Vancouver |
+| Central America | Costa Rica, Mexico City, Panama |
+| South America | Bogota, Buenos Aires, Guayaquil, Sao Paulo | 
+| Asia | Baghdad, Bangkok, Dubai, Hong Kong, Kolkata, Seoul, Shanghai, Taipei, Tehran, Tokyo |
+| Atlantic | Azores Islands, Bermuda, Canary Island, Cape Verde, Reykjavik |
+| Australia | Sydney |
+| Europe | Berlin, Greenwich Mean Time, Istanbul, Lisbon, London, Madrid, Moscow, Paris, Rome, Stockholm |
+| Pacific | Auckland, Easter Island, Fiji, Guam, Honolulu, Kosrae, Midway Island, Tahiti |
 </div>
