@@ -10,7 +10,6 @@
 
 | Region | City | | Region | City | | Region | City |
 | :--- | :--- | :---: | :--- | :--- | :---: | :--- | :--- |
-| | | | | | | | | 
 | America | Anchorage | | America | Guayaquil | | America | Sao_Paulo |
 | America | Bogota | | America | Los_Angeles | | America | Toronto | 
 | America | Buenos_Aires | | America | Mexico_City | | America | Vancouver |
