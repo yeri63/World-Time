@@ -7,8 +7,11 @@
 <p>Just to be clear, I don't know people in all these places. They're only included for curiosity sake, or when following news stories around the world. Also, it's nice to know exactly where in the world is  celebrating New Year's Day during that holiday!</p>
 <p>To use, just scroll down to find the city your interested in. It will display the day of the week and time, along with the difference in hours from local time. The table below shows all the cities included. Feel free to update.</p>
 
+<p align="center">
+  
 | Region | City | | Region | City | | Region | City |
 | :--- | :--- | :---: | :--- | :--- | :---: | :--- | :--- |
+| | | | | | | | | 
 | America | Anchorage | | America | Guayaquil | | America | Sao_Paulo |
 | America | Bogota | | America | Los_Angeles | | America | Toronto | 
 | America | Buenos_Aires | | America | Mexico_City | | America | Vancouver |
@@ -33,4 +36,4 @@
 | Pacific | Auckland | | Pacific | Guam | | Pacific | Midway |
 | Pacific | Easter | | Pacific | Honolulu | | Pacific | Tahiti |
 | Pacific | Fiji | | Pacific | Kosrae | | | |
-
+</p>
