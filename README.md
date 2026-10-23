@@ -3,7 +3,7 @@
   
 ![Screenshot of World Time](https://github.com/yeri63/World-Time/blob/master/world.png)
 </div>
-<p>Because I have friends and family living in other states and countries, from time to time it's nice to know what time it is there before making a call, or sending a text message, so I don't disturb them during business hours, or late at night. That was the motivations behind this application. Basically, I added at least one city per time zone, so I would know the time at a location for each hour of the day.</p>
+<p>Because I have friends and family living in other states and countries, from time to time it's nice to know what time it is there before making a call, or sending a text message. I prefer not to disturb them during business hours, or late at night. That was the motivations behind this application. Basically, I added at least one city per time zone, so I would know the time at a location for each hour of the day.</p>
 <p>Just to be clear, I don't know people in all these places. They're only included for curiosity sake, or when following news stories around the world. Also, it's nice to know which where in the world they are celebrating New Year's Day, once a year!</p>
 <p>To use, just scroll down to find the city your interested in. It will display the day of the week and time, along with the difference in hours from local time. The table below shows all the cities included. Feel free to update.</p>
 <div align="center">
