@@ -7,6 +7,7 @@
 <p>Just to be clear, I don't know people in all these places. They're only included for curiosity sake, or when following news stories around the world. Also, it's nice to know exactly where in the world is  celebrating New Year's Day during that holiday!</p>
 <p>To use, just scroll down to find the city your interested in. It will display the day of the week and time, along with the difference in hours from local time. The table below shows all the cities included.</p>
 <p>Feel free to update. To make changes, update both the $city and $tz arrays. These arrays are used to display the city, and calculate the current time, weekday and hour difference. Make sure the city falls within the time zone to display the correct time. [Supported Timezones](https://www.php.net/manual/en/timezones.php)</p>
+
 <div align="center">
 
 | Region | Cities / Countries / Places |
