@@ -8,8 +8,7 @@
 <p>To use, just scroll down to find the city your interested in. It will display the day of the week and time, along with the difference in hours from local time. The table below shows all the cities included.</p>
 <p>Feel free to update. To make changes, update both the $city and $tz arrays. These arrays are used to display the city, and calculate the current time, weekday and hour difference. Make sure the city falls within the time zone to display the correct time.</p>
 
-See [Timezones](https://github.com/yeri63/Weather-Forecast) for the complete list of cities and timezones supported.
-
+See [Timezones](https://www.php.net/manual/en/timezones.php) for the complete list of cities and timezones supported.
 <div align="center">
 
 | Region | Cities / Countries / Places |
