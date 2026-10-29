@@ -1,7 +1,7 @@
 # World Time
 <div align="center">
   
-![Screenshot of World Time](https://github.com/yeri63/World-Time/blob/master/world.png)
+![Screenshot of World Time](world.png)
 </div>
 <p>Because I have friends and family living around the world, from time to time it's nice to know what time it is there before making a call, or sending a text message. I prefer not to disturb them during business hours, or late at night. Basically, there's at least one city per time zone, to know the time at one location on the planet for any hour of the day.</p>
 <p>Just to be clear, I don't know people in all these places. They're only included for curiosity sake, or when following news stories around the world. Also, it's nice to know exactly where in the world is  celebrating New Year's Day during that holiday!</p>
